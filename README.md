@@ -8,6 +8,6 @@ Very Simple and easy to add JavaScript Slider with arrows and dots navigation.
 # Screenshot
 
 <p align="center">
-  <img width="300" height="350" alt="page-speed" src="img/screenshot.PNG">
+  <img width="450" height="350" alt="slider" src="img/screenshot.PNG">
 </p>
 
